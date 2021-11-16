@@ -1,4 +1,4 @@
-# <p align="center"><b>Selamat Datang di Journey</b></p>
+# <p align="center"><b>Selamat Datang di LearnC</b></p>
 
 
 ### 🤔 Apa itu LearnC?
