@@ -22,6 +22,6 @@ int main()
 //	Program Untuk Menampilkan Hasil Assign Ke Layar
 	printf("Nilai f = %f", f);
 	printf("\n");
-	printf("Nilai fll = %d", fll);
+	printf("Nilai fll = %lf", fll);
 	return 0;
 }
