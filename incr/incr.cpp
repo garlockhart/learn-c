@@ -3,7 +3,7 @@ Nama File		: incr.c
 Deskripsi		: Efek dari operator
 Dibuat Oleh		: Dosen DDP / 132 231 592
 Tanggal Dibuat	: 30/08/2001
-Diedit Oleh		: Garly Nugraha
+Diedit Oleh		: Garly Nugraha & Zahratul Mardiyah
 Tanggal Diedit	: 17/11/2021
 */
 
